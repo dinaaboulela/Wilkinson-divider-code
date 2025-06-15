@@ -1,4 +1,4 @@
-Fclc;
+clc;
 clear all;
 close all;
 
